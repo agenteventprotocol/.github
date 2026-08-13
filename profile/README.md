@@ -26,7 +26,7 @@ day-one bridges — you never choose between AEP and your existing pipeline.
 | [reference](https://github.com/agenteventprotocol/reference) | Runnable reference stack: relay, `aep` CLI with a durable capture sink and a shell control sender (`aep respond` / `aep cancel`), Claude Code + Codex + Gemini CLI + Qwen Code + OpenCode + Kilo Code + Cline + Hermes + Antigravity + pi + VS Code agent + Kimi Code adapters, CloudEvents/OTLP/SSE/AG-UI/ACP/OpenHands bridges (outbound projections + six inbound capture channels), MCP server, one-command demo, published benchmarks |
 | [mission-control](https://github.com/agenteventprotocol/mission-control) | Mission Control — real-time fleet operator console: several relays in one window, live session lanes, attention inbox with tap-to-respond, run cancel with stream-settled outcomes, replay scrubber, causal graphs |
 | [typescript-sdk](https://github.com/agenteventprotocol/typescript-sdk) | `@agenteventprotocol/sdk` — typed emit/consume/control helpers (Node ≥ 22, zero dependencies) |
-| [python-sdk](https://github.com/agenteventprotocol/python-sdk) | `agenteventprotocol` — pydantic v2 models + emit/consume/control helpers, sync and asyncio (Python ≥ 3.10, fully typed) |
+| [python-sdk](https://github.com/agenteventprotocol/python-sdk) | `agenteventprotocol-sdk` — pydantic v2 models + emit/consume/control helpers, sync and asyncio (Python ≥ 3.10, fully typed) |
 | [.github](https://github.com/agenteventprotocol/.github) | This repo: org profile + community health defaults |
 
 ## Where to start
